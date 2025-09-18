@@ -1,2 +1,3 @@
 # AhojSvete
-První aplikace nasídlená pomocí GitHub. Webová aplikace pro kebabáře.
+První aplikace nasdílená pomocí GitHub.
+Nová statická webová aplikace pro kebabáře.
